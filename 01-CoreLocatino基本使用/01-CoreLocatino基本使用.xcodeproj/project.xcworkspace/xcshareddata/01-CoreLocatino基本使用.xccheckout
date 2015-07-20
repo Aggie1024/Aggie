@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8008CE0E-1244-406D-BC57-D6DE10169612</string>
+	<key>IDESourceControlProjectName</key>
+	<string>01-CoreLocatino基本使用</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5133A06618207B5049E514A68646148F4F630ECF</key>
+		<string>https://github.com/Aggie1024/Aggie.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>01-CoreLocatino基本使用/01-CoreLocatino基本使用.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5133A06618207B5049E514A68646148F4F630ECF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Aggie1024/Aggie.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5133A06618207B5049E514A68646148F4F630ECF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5133A06618207B5049E514A68646148F4F630ECF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Aggie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
